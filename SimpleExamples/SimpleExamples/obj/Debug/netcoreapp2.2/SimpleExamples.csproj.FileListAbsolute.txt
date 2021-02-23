@@ -1,0 +1,10 @@
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\bin\Debug\netcoreapp2.2\SimpleExamples.deps.json
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\bin\Debug\netcoreapp2.2\SimpleExamples.runtimeconfig.json
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\bin\Debug\netcoreapp2.2\SimpleExamples.runtimeconfig.dev.json
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\bin\Debug\netcoreapp2.2\SimpleExamples.dll
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\bin\Debug\netcoreapp2.2\SimpleExamples.pdb
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\obj\Debug\netcoreapp2.2\SimpleExamples.csproj.CoreCompileInputs.cache
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\obj\Debug\netcoreapp2.2\SimpleExamples.AssemblyInfoInputs.cache
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\obj\Debug\netcoreapp2.2\SimpleExamples.AssemblyInfo.cs
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\obj\Debug\netcoreapp2.2\SimpleExamples.dll
+C:\Users\Victor Manuel\Desktop\GUIA_ESTUDIO\PROGRAMACION\Programacion_Web\.NET_CORE\Ejemplos\LINQ(Ejemplos)\SimpleExamples\SimpleExamples\obj\Debug\netcoreapp2.2\SimpleExamples.pdb
